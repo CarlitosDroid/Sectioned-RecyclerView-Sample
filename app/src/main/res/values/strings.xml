@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SwipeItemRecycler</string>
+    <string name="action_settings">Settings</string>
+    <string name="sub_header_hobby">Hobby</string>
+    <string name="sub_header_skills">Skills</string>
+    <string name="sub_header_about_us">About Us</string>
+    <string name="item_about_us">We create software and are very competitive, the application development is our passion, and we want to be the best in the world
+        Nothing is impossible, with effort and dedication can achieve</string>
+
+</resources>
